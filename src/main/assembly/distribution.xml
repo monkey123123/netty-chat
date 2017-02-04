@@ -1,5 +1,6 @@
 <assembly>
 	<id>dist</id>
+	<!--最终打包出来了3个文件，不太明白 -->
 	<formats>
 		<format>zip</format>
 	</formats>
